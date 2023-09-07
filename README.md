@@ -1,4 +1,4 @@
-# Text-Mining
+# Text Mining
 Text mining is the process of transforming unstructured text into a structured format to identify meaningful patterns and new insights. It is also known as text data mining. 
 
 Text mining uses natural language processing (NLP) techniques, like information extraction, to transform unstructured documents into a structured format to enable analysis and the generation of high-quality insights. 
